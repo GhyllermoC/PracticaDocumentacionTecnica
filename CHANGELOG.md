@@ -7,6 +7,16 @@ y este proyecto sigue el versionado semántico.
 
 ---
 
+## [v1.1.0] - 2026-05-21
+
+### ✨ Agregado
+- Se agregó ingreso de comentarios por parte del usuario.
+
+### 🐛 Fixed
+- Corrección menor en validación y visualización.
+
+---
+
 ## [v1.0.0] - 2026-05-21
 
 ### ✨ Agregado
