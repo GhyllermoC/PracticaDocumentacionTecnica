@@ -5,7 +5,9 @@ numero1 = float(input("Ingresa el primer número: "))
 numero2 = float(input("Ingresa el segundo número: "))
 
 # Realizamos la suma
-resultado = numero1 + numero2
+suma_total = numero1 + numero2
 
 # Mostramos el resultado
-print("La suma es:", resultado)
+print("La suma es:", suma_total)
+
+# Mostramos comentario
